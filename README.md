@@ -6,3 +6,4 @@ This repository contains technical documentation and troubleshooting procedures.
 
 - Check Scanner Troubleshooting
 - User ID Mismatch
+- Quantum Project Manager Installation Guide
