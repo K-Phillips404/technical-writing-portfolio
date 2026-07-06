@@ -9,7 +9,7 @@ Help Desk Technicians.
 Troubleshooting guide for the user ID mismatch problem in SharePoint and/or OneDrive. This issue can be identified by the following symptoms:
 
 - The user can no longer view files shared from OneDrive or SharePoint when signed into their Microsoft 365 account.
-- They can not view the shared files even when the files are set so anyone can view. However, they can view files shared with anyone when signed out of Microsoft 365.
+- They cannot view the shared files even when the files are set so anyone can view. However, they can view files shared with anyone when signed out of Microsoft 365.
 - The user's OneDrive URL will have a number, usually a 1, appended to the end after the Top-Level Domain. 
 
 ### Example: 
@@ -44,14 +44,14 @@ This is the preferred method because the user’s sign-in experience will not ch
 1. The tool reconnects the user to the original OneDrive site.
     - Ensure the user can access their documents.
     - If they can, no further action is required.
-    - If they can not, proceed to Method 2.
+    - If they cannot, proceed to Method 2.
 2. The tool will ask if you want to disconnect the old ID.
     - If this outcome arises, do the following:
          1. Back up the user's documents
          2. Allow the tool to disconnect the old ID.
          3. Test the user's access
          4. Restore documents if necessary
-         5. If the user can not view shared documents, proceed to Method 2.
+         5. If the user cannot view shared documents, proceed to Method 2.
 3. The tool returns an error message.
     - Usually, "The site could not be found."
 
